@@ -1,1 +1,1 @@
-# DockerElasticsearchKuromoji
+# elasticsearch-kuromoji
